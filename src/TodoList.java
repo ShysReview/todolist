@@ -2,18 +2,30 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TodoList {
+
+
+	ListtoDoList;
+	private final TodoList todoList= new todo
+	
     /*
      * Add a new item to the list, given a description and priority.
      */
     public void addItem(String description, int priority) {
         // TODO
+		
+    	
     }
-    
+    public String getDescription() {
+    	
+    	return this.getDescription();
+    	
+    }
     /*
      * Get the item at a given index.
      */
     public TodoListItem getItem(int i) {
         // TODO
+    
         return null;
     }
     
